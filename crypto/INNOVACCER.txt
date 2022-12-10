@@ -1,0 +1,51 @@
+INNOVACCER:
+	-intro
+	
+	-resume
+	
+	-dsa
+	
+	-project
+	
+	-sql query
+		-select
+		-from
+		-where
+		-length
+		-max
+		-distinct
+		-count
+		-sum
+		-right
+		-order by
+		-replace
+		-group by
+		-any
+		-all
+		-inner join
+		-concat
+		-substring
+		
+● Experience with frameworks such as ReactJS, ES6, HTML and modular CSS,
+● Knowledge of Web Services, REST, Working of the Internet, Linux, etc.
+● Experience in RDBMS & NoSQL database.
+● Excellent Knowledge of Networking concepts, Operating Systems, Data structures, and Algorithms.
+● Currently pursuing Bachelor's/ Master's degree in Computer Science/Software Engineering, passing out from batch 2022 only
+
+
+
+Project
+
+purpose 
+1 log in page
+2 view admin, student
+roles, check role in database
+password encryption rsa-256
+sign in - if(valid cred) jwt stored in browser
+sign out - jwt token erased from browser
+frontend and backend loosely coupled
+post ticket app.post()
+retrive information app.get()
+
+
+where you live? college? project? how? api? synchronous? mongodb? react? 

@@ -1,0 +1,26 @@
+[14:23, 7/10/2021] (!nibbi)Ayushi: Flipkart
+https://www.geeksforgeeks.org/check-binary-tree-contains-duplicate-subtrees-size-2/
+https://www.geeksforgeeks.org/maximum-number-partitions-can-sorted-individually-make-sorted/
+
+Flipkart
+1. Given a string S and a set of words D, find the longest word in D that is a subsequence of S.
+2. Check if a Binary Tree contains duplicate subtrees of size 2 or more https://www.geeksforgeeks.org/check-binary-tree-contains-duplicate-subtrees-size-2/ 
+3. Find a pair with given sum in BST (constraint O(n) time & O(Log n) space) https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/ 
+4.Smallest Greater Element on Right Side https://www.geeksforgeeks.org/smallest-greater-element-on-right-side/ 
+5. Project Discussion.
+
+Flipkart
+1. https://www.geeksforgeeks.o…
+[14:23, 7/10/2021] (!nibbi)Ayushi: Interview Round 2: 1.  https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+                               2.  https://www.geeksforgeeks.org/clone-a-stack-without-extra-space/ 
+
+Online Round: 1. Greedy (Easy, solution using priority Queue)
+                        2. Basic Maths(Easy)
+                        3. Dijkstra with some modifictions(Easy medium) 
+
+Interview Round 1:  1. https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+                                2. Problem Based of frequency counting (very easy)
+
+Interview Round 2:  1.  https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/
+ 2. https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
+[14:23, 7/10/2021] (!nibbi)Ayushi: Ye log proper gfg ke google archives puche the last year interview me

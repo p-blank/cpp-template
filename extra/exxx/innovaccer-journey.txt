@@ -1,0 +1,40 @@
+Project - User Auth
+Subteam - User Access Mgmt.  (Multi-Tenant)/ User Authentication Mgmt. (AuthN )
+Reporting manager - Abhishek Jain
+Buddy - Devendra Singh Khurana
+
+was an absolute beginner at python
+first week
+	introduction
+	git
+	jira
+	mandatory courses
+
+second/third week:
+	django 
+	django rest framework
+	OpenID Oauth2.0
+	UA-Okta poc tasks:
+		CRUD tenants
+		multi-tenants
+		CRUD users
+		custom-attributes
+		MFA
+		OTP flow
+		okta documentation:
+			authentication api
+			factors api
+			openId api
+			Schemas api
+			Users api
+			
+codebase 
+pth-auth test-cases
+brief redis, docker
+unittesting, pytest, patch, increased test coverage
+
+grateful for all the help, support and things I got to learn here.
+
+Hello everyone, 
+I will keep things brief
+

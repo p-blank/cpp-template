@@ -1,0 +1,16 @@
+Project
+
+I built a college mess portal through which students can perform queries like checking their pending mess fees, and 
+raising a ticket to 
+mess admin,
+
+I built it because previous mess portal was pen-paper based, it was full of hassels.
+
+Now, I will tell you about basic outline of the project:
+
+	first page is the log in page, it doesn't require user to tell he is admin or student,
+	since I stored credential with "role" key which will redirect to correspoding view on clicking the log in button,
+	I used a library for rsa-256 encryption
+	I used jwt tokens for remembering log in session, until user logs out.
+	for actions like raising a ticket, express server will recieve a POST request and respond with verdict
+	that is it

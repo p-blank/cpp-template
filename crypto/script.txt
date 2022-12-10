@@ -1,0 +1,32 @@
+Hello everyone
+
+You must be wondering why is a global identity system required, when things are already functioning fine without it.
+
+well, things are not very transparent to the customers, and many service providers exploit user's info without consent.
+This global identity system will enable customers to share only the information they permit for the process of authentication,
+
+But what is authentication?
+
+It is a process by which it is determined, that a person is showing his genuine identity or not.
+
+In this slide you can see some of the most common authentication methods like password, 2-factor, etc.
+
+Now, what is the problem with such authentication systems:
+
+	-Service providers need to maintain their own database for storing user's information. 
+	This costs a lot of infrastructure.
+	
+	-It is inefficient since, the data is duplicated accross all servers accross different service providers
+	
+	-Even the 2-factor authentication is not very secure as many apps maintain access to user's sms inbox, 
+	and a small breach can lead an OTP to leak.
+	
+	-It is cumbursome to users, because they need to remembers credentials for every place they have an account
+	
+	-User's personal information can be exploited in many ways without their consent.
+	
+Now, what is the solution to this problem? And does it even exist?
+
+Yes, there is a solution, the blockchain based global identity system.
+
+And, Saksham will tell you the idea behind this solution.

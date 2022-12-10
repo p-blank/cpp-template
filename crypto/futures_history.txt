@@ -1,0 +1,1686 @@
+BM-LTC_USDT
+Default
+0.00
+0.00
+0.00
+28 Mar 22,10:25 PM
+BM-LTC_USDT
+Default
+0.00
+0.00
+0.00
+28 Mar 22,10:25 PM
+BM-LTC_USDT
+Default
+0.00
++8.32
+-8.32
+28 Mar 22,10:23 PM
+BM-ETH_USDT
+Default
+0.00
++27.12
+-27.12
+28 Mar 22,10:23 PM
+BM-BTC_USD
+Default
+0.00
++28.81
+-28.81
+28 Mar 22,10:22 PM
+BM-ETH_USDT
+Default
++790.40
++27.12
++763.28
+28 Mar 22,10:20 PM
+BM-BTC_USD
+Default
++592.80
++23.05
++569.75
+28 Mar 22,10:20 PM
+BM-LTC_USDT
+Default
++174.42
++8.31
++166.11
+28 Mar 22,10:20 PM
+BM-LTC_USDT
+Default
++380.55
++18.13
++362.42
+28 Mar 22,10:20 PM
+BM-LTC_USDT
+Funding
+-3.47
+0.00
+-3.47
+28 Mar 22,5:31 PM
+BM-BTC_USD
+Funding
+-3.13
+0.00
+-3.13
+28 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-3.54
+0.00
+-3.54
+28 Mar 22,5:31 PM
+BM-BTC_USD
+Funding
+-3.13
+0.00
+-3.13
+28 Mar 22,9:31 AM
+BM-LTC_USDT
+Funding
+-3.47
+0.00
+-3.47
+28 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-0.71
+0.00
+-0.71
+28 Mar 22,9:31 AM
+BM-LTC_USDT
+Default
+0.00
++18.41
+-18.41
+28 Mar 22,5:19 AM
+BM-LTC_USDT
+Default
+0.00
++7.36
+-7.36
+28 Mar 22,5:16 AM
+BM-ETH_USDT
+Default
+0.00
++26.26
+-26.26
+28 Mar 22,5:15 AM
+BM-ETH_USDT
+Default
++1753.97
++37.51
++1716.46
+28 Mar 22,5:14 AM
+BM-BTC_USD
+Default
+0.00
++11.46
+-11.46
+28 Mar 22,4:49 AM
+BM-BTC_USD
+Default
+0.00
++11.46
+-11.46
+28 Mar 22,4:46 AM
+BM-ETH_USDT
+Funding
++6.85
+0.00
++6.85
+28 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+27 Mar 22,11:00 PM
+BM-ETH_USDT
+Default
+0.00
++12.67
+-12.67
+27 Mar 22,10:35 PM
+BM-ETH_USDT
+Default
+0.00
++18.10
+-18.10
+27 Mar 22,10:33 PM
+BM-ETH_USDT
+Default
++998.64
++27.14
++971.50
+27 Mar 22,10:33 PM
+BM-ETH_USDT
+Funding
+-0.18
+0.00
+-0.18
+27 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
++7.46
+0.00
++7.46
+27 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
++1.58
+0.00
++1.58
+27 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
+-3.52
+0.00
+-3.52
+26 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-0.92
+0.00
+-0.92
+26 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-3.52
+0.00
+-3.52
+26 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++26.39
+-26.39
+25 Mar 22,10:53 PM
+BM-ETH_USDT
+Default
+-66.80
++47.54
+-114.35
+25 Mar 22,10:51 PM
+BM-ETH_USDT
+Funding
+-6.35
+0.00
+-6.35
+25 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-6.35
+0.00
+-6.35
+25 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-6.35
+0.00
+-6.35
+25 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++7.04
+-7.04
+24 Mar 22,9:01 PM
+BM-ETH_USDT
+Default
+0.00
++7.05
+-7.05
+24 Mar 22,9:01 PM
+BM-ETH_USDT
+Default
+0.00
++7.05
+-7.05
+24 Mar 22,9:01 PM
+BM-ETH_USDT
+Default
+0.00
++8.81
+-8.81
+24 Mar 22,8:59 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+24 Mar 22,8:59 PM
+BM-ETH_USDT
+Default
++694.26
++44.00
++650.26
+24 Mar 22,8:56 PM
+BM-ETH_USDT
+Funding
+-0.23
+0.00
+-0.23
+24 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
++17.39
+-17.39
+24 Mar 22,4:07 PM
+BM-ETH_USDT
+Default
+0.00
++26.09
+-26.09
+24 Mar 22,4:07 PM
+BM-ETH_USDT
+Default
++1169.41
++48.67
++1120.74
+24 Mar 22,4:06 PM
+BM-ETH_USDT
+Funding
++14.59
+0.00
++14.59
+24 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
++9.88
+0.00
++9.88
+24 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
++10.01
+0.00
++10.01
+23 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
++5.02
+-5.02
+23 Mar 22,10:20 AM
+BM-ETH_USDT
+Funding
+-5.70
+0.00
+-5.70
+23 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
++3.38
+-3.38
+23 Mar 22,8:59 AM
+BM-ETH_USDT
+Default
+0.00
++3.38
+-3.38
+23 Mar 22,8:56 AM
+BM-ETH_USDT
+Funding
+-4.80
+0.00
+-4.80
+23 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+23 Mar 22,1:25 AM
+BM-ETH_USDT
+Funding
+-4.12
+0.00
+-4.12
+22 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
++5.10
+-5.10
+22 Mar 22,11:47 AM
+BM-ETH_USDT
+Default
+0.00
++25.79
+-25.79
+22 Mar 22,10:52 AM
+BM-ETH_USDT
+Default
++1133.16
++25.80
++1107.36
+22 Mar 22,10:52 AM
+BM-ETH_USDT
+Funding
++1.30
+0.00
++1.30
+22 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-3.33
+0.00
+-3.33
+22 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
+-3.33
+0.00
+-3.33
+21 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+21 Mar 22,4:55 PM
+BM-ETH_USDT
+Default
++285.64
++9.98
++275.66
+21 Mar 22,4:53 PM
+BM-ETH_USDT
+Default
++905.24
++31.61
++873.64
+21 Mar 22,4:53 PM
+BM-ETH_USDT
+Funding
+-5.43
+0.00
+-5.43
+21 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+21 Mar 22,8:23 AM
+BM-ETH_USDT
+Funding
+-4.35
+0.00
+-4.35
+21 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++8.09
+-8.09
+21 Mar 22,12:21 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+20 Mar 22,5:40 PM
+BM-ETH_USDT
+Default
+-1579.05
++57.27
+-1636.32
+20 Mar 22,5:38 PM
+BM-ETH_USDT
+Funding
+-7.79
+0.00
+-7.79
+20 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
++8.28
+-8.28
+20 Mar 22,5:16 PM
+BM-ETH_USDT
+Funding
++1.67
+0.00
++1.67
+20 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+20 Mar 22,3:44 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+20 Mar 22,3:42 AM
+BM-ETH_USDT
+Funding
+-5.58
+0.00
+-5.58
+20 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
++9.48
+0.00
++9.48
+19 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
++9.21
+0.00
++9.21
+19 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,5:23 AM
+BM-ETH_USDT
+Default
+0.00
++6.69
+-6.69
+19 Mar 22,4:13 AM
+BM-ETH_USDT
+Default
+0.00
++26.77
+-26.77
+19 Mar 22,4:12 AM
+BM-ETH_USDT
+Default
+-422.07
++50.11
+-472.17
+19 Mar 22,4:10 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,3:56 AM
+BM-ETH_USDT
+Default
+0.00
++11.77
+-11.77
+19 Mar 22,3:28 AM
+BM-ETH_USDT
+Default
+0.00
++5.04
+-5.04
+19 Mar 22,2:46 AM
+BM-ETH_USDT
+Default
+0.00
++8.41
+-8.41
+19 Mar 22,2:44 AM
+BM-ETH_USDT
+Default
+0.00
++16.82
+-16.82
+19 Mar 22,2:44 AM
+BM-ETH_USDT
+Default
++430.92
++53.83
++377.09
+19 Mar 22,2:44 AM
+BM-ETH_USDT
+Default
+0.00
++3.38
+-3.38
+19 Mar 22,1:51 AM
+BM-ETH_USDT
+Default
+0.00
++3.38
+-3.38
+19 Mar 22,1:50 AM
+BM-ETH_USDT
+Funding
++3.24
+0.00
++3.24
+19 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,1:19 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,12:28 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,12:19 AM
+BM-ETH_USDT
+Default
+0.00
++1.67
+-1.67
+19 Mar 22,12:18 AM
+BM-ETH_USDT
+Default
+0.00
++3.34
+-3.34
+19 Mar 22,12:17 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+19 Mar 22,12:11 AM
+BM-ETH_USDT
+Default
+0.00
++5.00
+-5.00
+19 Mar 22,12:04 AM
+BM-ETH_USDT
+Default
+0.00
++17.12
+-17.12
+19 Mar 22,12:01 AM
+BM-ETH_USDT
+Default
++732.10
++63.38
++668.72
+19 Mar 22,12:00 AM
+BM-ETH_USDT
+Default
+0.00
++10.27
+-10.27
+18 Mar 22,11:40 PM
+BM-ETH_USDT
+Default
+0.00
++10.30
+-10.30
+18 Mar 22,10:50 PM
+BM-ETH_USDT
+Default
+0.00
++8.43
+-8.43
+18 Mar 22,9:19 PM
+BM-ETH_USDT
+Default
+0.00
++8.45
+-8.45
+18 Mar 22,9:09 PM
+BM-ETH_USDT
+Default
+0.00
++1.69
+-1.69
+18 Mar 22,9:09 PM
+BM-ETH_USDT
+Default
+0.00
++23.69
+-23.69
+18 Mar 22,9:09 PM
+BM-ETH_USDT
+Default
++2292.41
++47.37
++2245.04
+18 Mar 22,9:09 PM
+BM-ETH_USDT
+Funding
++12.72
+0.00
++12.72
+18 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-0.79
+0.00
+-0.79
+18 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
++0.79
+0.00
++0.79
+18 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++3.27
+-3.27
+17 Mar 22,8:23 PM
+BM-ETH_USDT
+Default
+0.00
++3.27
+-3.27
+17 Mar 22,8:22 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+17 Mar 22,8:03 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+17 Mar 22,8:00 PM
+BM-ETH_USDT
+Default
++26.69
++1.65
++25.05
+17 Mar 22,8:00 PM
+BM-ETH_USDT
+Funding
+-0.23
+0.00
+-0.23
+17 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-3.60
+0.00
+-3.60
+17 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
++1.62
+-1.62
+17 Mar 22,2:07 AM
+BM-ETH_USDT
+Default
+0.00
++32.54
+-32.54
+17 Mar 22,2:05 AM
+BM-ETH_USDT
+Default
++670.08
++30.91
++639.16
+17 Mar 22,2:05 AM
+BM-ETH_USDT
+Funding
+-4.05
+0.00
+-4.05
+17 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++3.21
+-3.21
+17 Mar 22,1:28 AM
+BM-ETH_USDT
+Default
+0.00
++3.21
+-3.21
+17 Mar 22,1:26 AM
+BM-ETH_USDT
+Default
+0.00
++8.01
+-8.01
+17 Mar 22,1:07 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+17 Mar 22,1:06 AM
+BM-ETH_USDT
+Default
++688.03
++28.83
++659.21
+17 Mar 22,1:05 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+17 Mar 22,12:01 AM
+BM-ETH_USDT
+Default
+0.00
++3.12
+-3.12
+16 Mar 22,11:51 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+16 Mar 22,11:30 PM
+BM-ETH_USDT
+Default
+0.00
++3.15
+-3.15
+16 Mar 22,10:35 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+16 Mar 22,9:56 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+16 Mar 22,9:56 PM
+BM-ETH_USDT
+Default
+-40.48
++23.73
+-64.21
+16 Mar 22,9:55 PM
+BM-ETH_USDT
+Default
+0.00
++23.76
+-23.76
+16 Mar 22,9:54 PM
+BM-ETH_USDT
+Default
+-346.95
++39.59
+-386.54
+16 Mar 22,9:53 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+16 Mar 22,9:38 PM
+BM-ETH_USDT
+Default
+0.00
++31.89
+-31.89
+16 Mar 22,9:37 PM
+BM-ETH_USDT
+Default
++691.16
++47.70
++643.46
+16 Mar 22,9:35 PM
+BM-ETH_USDT
+Funding
+-6.29
+0.00
+-6.29
+16 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
++47.18
+-47.18
+16 Mar 22,3:37 PM
+BM-ETH_USDT
+Default
++1041.67
++66.05
++975.63
+16 Mar 22,3:37 PM
+BM-ETH_USDT
+Funding
+-8.70
+0.00
+-8.70
+16 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-5.57
+0.00
+-5.57
+16 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
+-8.70
+0.00
+-8.70
+15 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-8.70
+0.00
+-8.70
+15 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-8.70
+0.00
+-8.70
+15 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+15 Mar 22,12:14 AM
+BM-ETH_USDT
+Default
+0.00
++1.49
+-1.49
+14 Mar 22,11:35 PM
+BM-ETH_USDT
+Funding
++5.03
+0.00
++5.03
+14 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
++3.24
+0.00
++3.24
+14 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
++1.48
+-1.48
+14 Mar 22,8:59 AM
+BM-ETH_USDT
+Default
+0.00
++1.48
+-1.48
+14 Mar 22,8:49 AM
+BM-ETH_USDT
+Default
+0.00
++1.48
+-1.48
+14 Mar 22,8:48 AM
+BM-ETH_USDT
+Funding
+-2.56
+0.00
+-2.56
+14 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++4.47
+-4.47
+13 Mar 22,6:18 PM
+BM-ETH_USDT
+Funding
++2.21
+0.00
++2.21
+13 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
++13.77
+0.00
++13.77
+13 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
++12.25
+0.00
++12.25
+13 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
++0.83
+0.00
++0.83
+12 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
++0.28
+0.00
++0.28
+12 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-6.92
+0.00
+-6.92
+12 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
++4.51
+-4.51
+11 Mar 22,9:39 PM
+BM-ETH_USDT
+Funding
++4.11
+0.00
++4.11
+11 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+11 Mar 22,4:30 PM
+BM-ETH_USDT
+Funding
++0.30
+0.00
++0.30
+11 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
++8.93
+0.00
++8.93
+11 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+10 Mar 22,6:06 PM
+BM-ETH_USDT
+Funding
+-1.17
+0.00
+-1.17
+10 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+10 Mar 22,10:28 AM
+BM-ETH_USDT
+Funding
+-5.10
+0.00
+-5.10
+10 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-5.10
+0.00
+-5.10
+10 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+10 Mar 22,12:11 AM
+BM-ETH_USDT
+Default
+0.00
++3.19
+-3.19
+10 Mar 22,12:07 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+9 Mar 22,7:08 PM
+BM-ETH_USDT
+Funding
+-3.83
+0.00
+-3.83
+9 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+9 Mar 22,2:43 PM
+BM-ETH_USDT
+Default
+0.00
++3.21
+-3.21
+9 Mar 22,1:40 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+9 Mar 22,10:06 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+9 Mar 22,10:06 AM
+BM-ETH_USDT
+Default
++1957.24
++35.01
++1922.23
+9 Mar 22,10:05 AM
+BM-ETH_USDT
+Funding
+-4.47
+0.00
+-4.47
+9 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-4.47
+0.00
+-4.47
+9 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
+-3.94
+0.00
+-3.94
+8 Mar 22,5:31 PM
+BM-ETH_USDT
+Funding
+-4.47
+0.00
+-4.47
+8 Mar 22,9:31 AM
+BM-ETH_USDT
+Funding
+-4.47
+0.00
+-4.47
+8 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+8 Mar 22,12:35 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,10:24 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,8:32 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,8:01 PM
+BM-ETH_USDT
+Funding
+-1.93
+0.00
+-1.93
+7 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,1:49 PM
+BM-ETH_USDT
+Funding
+-2.45
+0.00
+-2.45
+7 Mar 22,9:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,4:47 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+7 Mar 22,4:42 AM
+BM-ETH_USDT
+Funding
+-1.31
+0.00
+-1.31
+7 Mar 22,1:31 AM
+BM-ETH_USDT
+Funding
+-0.66
+0.00
+-0.66
+6 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+6 Mar 22,3:53 PM
+BM-ETH_USDT
+Default
+0.00
++3.04
+-3.04
+6 Mar 22,3:43 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+6 Mar 22,2:22 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+6 Mar 22,1:07 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+6 Mar 22,12:05 PM
+BM-ETH_USDT
+Default
+-12.20
++4.66
+-16.86
+5 Mar 22,9:53 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,9:22 PM
+BM-ETH_USDT
+Default
+-55.62
++24.83
+-80.45
+5 Mar 22,9:03 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,9:01 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,8:59 PM
+BM-ETH_USDT
+Default
+0.00
++15.48
+-15.48
+5 Mar 22,8:59 PM
+BM-ETH_USD
+Default
+-522.50
++75.85
+-598.34
+5 Mar 22,8:48 PM
+BM-ETH_USD
+Default
+0.00
++56.59
+-56.59
+5 Mar 22,7:34 PM
+BM-ETH_USD
+Default
+0.00
++6.29
+-6.29
+5 Mar 22,7:34 PM
+BM-ETH_USD
+Default
+0.00
+0.00
+0.00
+5 Mar 22,7:33 PM
+BM-ETH_USDT
+Default
+-59.30
++13.90
+-73.20
+5 Mar 22,7:15 PM
+BM-ETH_USDT
+Funding
+-1.86
+0.00
+-1.86
+5 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,3:38 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,2:36 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,2:22 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,2:22 PM
+BM-ETH_USDT
+Default
+0.00
++1.56
+-1.56
+5 Mar 22,2:22 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,1:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,12:50 PM
+BM-ETH_USDT
+Default
+-4.69
++3.06
+-7.75
+5 Mar 22,1:57 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,1:52 AM
+BM-ETH_USDT
+Default
++271.14
++19.90
++251.24
+5 Mar 22,1:45 AM
+BM-ETH_USDT
+Funding
++2.68
+0.00
++2.68
+5 Mar 22,1:31 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,1:21 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,1:17 AM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+5 Mar 22,12:51 AM
+BM-ETH_USDT
+Default
+0.00
++3.13
+-3.13
+5 Mar 22,12:32 AM
+BM-ETH_USDT
+Default
++1.52
++17.34
+-15.81
+4 Mar 22,11:58 PM
+BM-ETH_USDT
+Default
+0.00
++7.88
+-7.88
+4 Mar 22,11:55 PM
+BM-ETH_USDT
+Default
+0.00
++4.73
+-4.73
+4 Mar 22,11:48 PM
+BM-ETH_USDT
+Default
+0.00
++3.15
+-3.15
+4 Mar 22,11:43 PM
+BM-ETH_USDT
+Default
+0.00
++1.58
+-1.58
+4 Mar 22,11:33 PM
+BM-ETH_USDT
+Default
+-151.45
++34.68
+-186.13
+4 Mar 22,11:23 PM
+BM-ETH_USDT
+Default
+0.00
++34.56
+-34.56
+4 Mar 22,11:14 PM
+BM-ETH_USDT
+Default
+-197.14
++37.74
+-234.88
+4 Mar 22,11:13 PM
+BM-ETH_USDT
+Default
+0.00
++37.89
+-37.89
+4 Mar 22,11:10 PM
+BM-ETH_USDT
+Default
+-61.61
++39.45
+-101.06
+4 Mar 22,11:00 PM
+BM-ETH_USDT
+Default
+0.00
++39.41
+-39.41
+4 Mar 22,10:55 PM
+BM-ETH_USDT
+Default
+-194.32
++42.58
+-236.91
+4 Mar 22,10:49 PM
+BM-ETH_USDT
+Default
+0.00
++42.73
+-42.73
+4 Mar 22,10:46 PM
+BM-ETH_USDT
+Default
+-311.51
++37.88
+-349.39
+4 Mar 22,10:44 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+4 Mar 22,9:46 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+4 Mar 22,9:46 PM
+BM-ETH_USD
+Default
+-763.23
++50.83
+-814.07
+4 Mar 22,9:34 PM
+BM-ETH_USD
+Default
+-190.81
++12.71
+-203.52
+4 Mar 22,9:34 PM
+BM-ETH_USDT
+Default
+-408.05
+0.00
+-408.05
+4 Mar 22,9:22 PM
+BM-ETH_USD
+Default
+0.00
+0.00
+0.00
+4 Mar 22,8:36 PM
+BM-ETH_USD
+Default
+-660.67
++64.36
+-725.03
+4 Mar 22,8:28 PM
+BM-ETH_USD
+Default
+0.00
++31.93
+-31.93
+4 Mar 22,8:17 PM
+BM-ETH_USD
+Default
+0.00
++31.93
+-31.93
+4 Mar 22,8:17 PM
+BM-ETH_USDT
+Default
+0.00
++3.17
+-3.17
+4 Mar 22,7:48 PM
+BM-ETH_USDT
+Funding
+-1.71
+0.00
+-1.71
+4 Mar 22,5:31 PM
+BM-ETH_USDT
+Default
+0.00
+0.00
+0.00
+4 Mar 22,4:32 PM
+BM-ETH_USD
+Default
++178.09
++32.62
++145.47
+4 Mar 22,11:39 AM
+BM-ETH_USD
+Default
++178.09
++32.62
++145.47
+4 Mar 22,11:39 AM
+BM-ETH_USD
+Default
+0.00
++6.50
+-6.50
+4 Mar 22,11:18 AM
+BM-ETH_USD
+Default
+0.00
++58.47
+-58.47
+4 Mar 22,11:18 AM
+BM-ETH_USD
+Default
++269.52
++35.39
++234.13
+2 Mar 22,9:04 PM
+BM-ETH_USD
+Default
++268.72
++35.39
++233.33
+2 Mar 22,9:04 PM
+BM-ETH_USD
+Default
+0.00
+0.00
+0.00
+2 Mar 22,9:01 PM
+BM-ETH_USD
+Default
+-462.71
++72.14
+-534.85
+2 Mar 22,8:35 PM
+BM-ETH_USD
+Default
+0.00
++72.48
+-72.48
+2 Mar 22,8:30 PM
+BM-ETH_USD
+Default
+-604.23
++72.41
+-676.64
+2 Mar 22,8:30 PM
+BM-ETH_USD
+Default
+0.00
++35.98
+-35.98
+2 Mar 22,8:29 PM
+BM-ETH_USD
+Default
+0.00
++35.98
+-35.98
+2 Mar 22,8:29 PM
+BM-ETH_USD
+Default
++60.10
++42.50
++17.61
+2 Mar 22,1:59 AM
+BM-ETH_USD
+Default
++54.06
++35.42
++18.64
+2 Mar 22,1:59 AM
+BM-ETH_USD
+Default
+0.00
++14.15
+-14.15
+2 Mar 22,1:58 AM
+BM-ETH_USD
+Default
+0.00
++63.68
+-63.68
+2 Mar 22,1:58 AM
+BM-ETH_USD
+Default
++168.55
++70.86
++97.69
+2 Mar 22,1:49 AM
+BM-ETH_USD
+Funding
+-57.34
+0.00
+-57.34
+2 Mar 22,1:31 AM
+BM-ETH_USD
+Default
+0.00
++7.07
+-7.07
+1 Mar 22,8:42 PM
+BM-ETH_USD
+Default
+0.00
++63.66
+-63.66
+1 Mar 22,8:42 PM
+BM-ETH_USD
+Default
++1463.97
++63.73
++1400.25
+1 Mar 22,8:41 PM
+BM-ETH_USD
+Default
++162.66
++7.08
++155.58
+1 Mar 22,8:41 PM
+BM-ETH_USD
+Funding
+-92.04
+0.00
+-92.04
+1 Mar 22,5:31 PM
+BM-ETH_USD
+Default
+0.00
++62.63
+-62.63
+1 Mar 22,10:11 AM
+BM-ETH_USD
+Default
+0.00
++6.96
+-6.96
+1 Mar 22,10:11 AM

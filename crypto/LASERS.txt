@@ -1,0 +1,18 @@
+STATEMENT:
+
+Given a square matrix with lasers in fixed coordinates. Each laser can light up its column, or its row, but not both upto a limited distance (say 'd') in both directions (up & down OR left & right) 
+Each laser will illuminate squares at most d units away, and will also illuminate its own square, so the maximum number of squares it will illuminate is 2d+1. 
+
+Any cell in the matrix should be illuminated by at most 1 laser.
+Determine if its possible to lit all the lasers while satisfying above mentioned constraints.
+
+INPUT:
+
+The first line of input contains 3 space seperated integers, n, d, and k (1 <= n, d <= 1e5, k <= 1e3),
+where n is the size of one side of the square grid, d is the maximum reach of a laser, and k is the number of lasers.
+
+The next k lines will contain 2 positive integers x and y (1 <= x, y <= n) denoting x and y coordinates of the ith laser.
+
+OUTPUT:
+
+YES / NO
